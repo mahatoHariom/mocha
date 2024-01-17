@@ -1,0 +1,19 @@
+{
+  "name": "slenium-rt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 60000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.0.0",
+    "chromedriver": "^120.0.1",
+    "mocha": "^10.2.0",
+    "save-dev": "^0.0.1-security",
+    "selenium-webdriver": "^4.16.0"
+  }
+}
